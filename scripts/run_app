@@ -1,1 +1,2 @@
-
+#!/bin/bash
+docker run -itd --name nginx-mohammad -p 80:8080 nginx:latest
